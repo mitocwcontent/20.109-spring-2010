@@ -1,0 +1,63 @@
+{
+  "term": "Spring",
+  "year": "2010",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Biological Engineering"
+    ],
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Biomaterials"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Genetics"
+    ],
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Cell and Tissue Engineering"
+    ]
+  ],
+  "legacy_uid": "01577db1-d6d1-c4e7-ad2d-6cd16d9abf0f",
+  "instructors": {
+    "content": [
+      "d5685fa1-8937-dc00-da3b-4ef0740ed6bd",
+      "a0f94853-285f-c937-c989-e1a6ea14c22a",
+      "3e412bb4-aa07-c162-de1f-54cc91c9c83f",
+      "79c7d9b8-d0f6-d285-30a5-798050214e99",
+      "60b142b1-96ec-1963-da68-75b4674fb047",
+      "c0480988-5853-fbc5-f702-9bafe56ac75d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ebc1d693-6643-62da-7dd5-af5369d23285",
+    "website": "20-109-laboratory-fundamentals-in-biological-engineering-spring-2010"
+  },
+  "course_title": "Laboratory Fundamentals in Biological Engineering",
+  "course_description": "This course introduces experimental biochemical and molecular techniques from a quantitative engineering perspective. Experimental design, data analysis, and scientific communication form the underpinnings of this subject. Three discovery-based experimental modules focus on RNA engineering, protein engineering, and cell-biomaterial engineering.\n\nThis OCW site is based on the source OpenWetWare class Wiki, [20.109(S10): Laboratory Fundamentals of Biological Engineering](http://openwetware.org/wiki/20.109%28S10%29).\n",
+  "department_numbers": [
+    "20"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "20.109",
+  "course_image_thumbnail": {
+    "content": "21e9ab82-631b-f58b-4ad6-1f0db5c73199",
+    "website": "20-109-laboratory-fundamentals-in-biological-engineering-spring-2010"
+  },
+  "learning_resource_types": [
+    "Other Video",
+    "Presentation Assignments",
+    "Written Assignments",
+    "Lecture Notes"
+  ],
+  "site_uid": "9bbd71da-b03a-47ec-9ff5-d773819f0724",
+  "title": "Course Metadata"
+}
